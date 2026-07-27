@@ -276,7 +276,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 0
+        "dia": 3
       },
       "baseValues": {
         "otros": 0,
@@ -7130,6 +7130,6 @@
       }
     }
   ],
-  "updatedAt": 1785147061101,
+  "updatedAt": 1785147333532,
   "lastDevice": "dev-gyf280-ms329iif"
 }
