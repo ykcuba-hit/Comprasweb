@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Compras por supermercado · v17.1</title>
+<title>Compras por supermercado · v17.2</title>
 <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
 <style>
 :root{--blue:#1267d6;--blue-dark:#0d4fa8;--green:#198754;--red:#d92d20;--bg:#f5f6f8;--card:#fff;--text:#1f2328;--muted:#667085;--border:#dfe3e8;--amber:#fff3cd}
@@ -244,55 +244,19 @@ body{background:#fff1a8}
 }
 
 
-/* v17.1 — tema oscuro neón inspirado en la referencia */
-:root{
-  --bg:#000509;--panel:#02080d;--panel2:#071018;--text:#f5f8ff;--muted:#8ea0b5;
-  --cyan:#00b7ff;--cyan2:#006fae;--magenta:#ff29cf;--purple:#6d087a;--lime:#98ff16;
-  --red:#ff3a49;--green:#16cc79;--border:#003f61;--blue:#07131d;
+/* v17.2 — paleta clásica restaurada + neón solo en productos con cantidad > 0 */
+.product-wrap.hasqty{
+  border:1px solid #ff28cf!important;
+  border-radius:11px!important;
+  padding:3px!important;
+  margin:-3px!important;
+  box-shadow:0 0 8px #ff28cf,0 0 17px rgba(255,41,207,.58),inset 0 0 10px rgba(255,41,207,.08)!important;
 }
-html,body{background:#000!important;color:var(--text)!important}
-body{background:radial-gradient(circle at 50% 0,#06111a 0,#00070c 28%,#000 70%) fixed!important}
-.container{color:var(--text)!important}
-.top-fixed{background:#00080e!important;border:1px solid #003c5e!important;border-top:0!important;box-shadow:0 0 18px rgba(0,183,255,.16),0 8px 25px rgba(0,0,0,.8)!important}
-h1,.section h3,.modal h2{color:#fff!important;text-shadow:0 0 8px rgba(255,255,255,.08)}
-.subtitle,.status,.note,.backup-note,.manage-row small,.search-result-row small{color:var(--muted)!important}
-.toolbar{background:#01070c!important;border:1px solid #003654!important;box-shadow:inset 0 0 18px rgba(0,183,255,.05)!important}
-button,.switch,.group-toggle button{font-weight:800!important}
-.secondary,.history{background:#061019!important;color:#f5f8ff!important;border:1px solid #005985!important;box-shadow:inset 0 0 10px rgba(0,183,255,.06)}
-.primary{background:#006eaa!important;color:#fff!important;border:1px solid #00b7ff!important;box-shadow:0 0 10px rgba(0,183,255,.23)!important}
-.dark{background:#06080c!important;color:#fff!important;border:1px solid #00a7e8!important;box-shadow:0 0 10px rgba(0,183,255,.18)!important}
-.danger{background:#16080b!important;color:#ff6672!important;border:1px solid #c52838!important;box-shadow:0 0 9px rgba(255,58,73,.15)!important}
-.group-toggle{background:#02070b!important;border:1px solid #00577f!important}.group-toggle button.active{background:#003c5f!important;color:#59d8ff!important;box-shadow:0 0 10px rgba(0,183,255,.28)!important}
-.switch{background:#03090e!important;color:#d8e8f4!important;border:1px solid #004b70!important}
-#tabs{background:transparent!important}
-#tabs button{background:#03090e!important;color:#d9e7f0!important;border:1px solid #00496f!important;box-shadow:inset 0 0 8px rgba(0,183,255,.04)!important}
-#tabs button.active{background:#005e91!important;color:#fff!important;border-color:#00b7ff!important;box-shadow:0 0 12px rgba(0,183,255,.35)!important}
-.market-header,.section,.note{background:#01070b!important;border:1px solid #003752!important;box-shadow:0 0 12px rgba(0,183,255,.07)!important;color:#fff!important}
-.section{border-radius:10px!important}
-.section h3{border:1px solid #df4759!important;background:#091018!important;padding:7px 10px!important;border-radius:8px!important;color:#ff6977!important;text-shadow:0 0 8px rgba(255,58,73,.22)}
-.product-wrap::after{background:linear-gradient(to bottom,transparent,rgba(0,183,255,.6),transparent)!important;box-shadow:0 0 8px rgba(0,183,255,.25)!important}
-.product{background:#02070b!important;color:#fff!important;border:1px solid #004d73!important;box-shadow:inset 0 0 10px rgba(0,183,255,.035)!important}
-.product.zero{background:#010407!important;color:#d0d8df!important;border-color:#16303e!important}
-.product-qty{background:#0077b6!important;color:#00131d!important;border:1px solid #00b7ff!important;box-shadow:0 0 8px rgba(0,183,255,.35)!important}
-.product.zero .product-qty{background:#004f78!important;color:#c7eaff!important;border-color:#007aad!important}
-.product-wrap.hasqty{background:linear-gradient(90deg,rgba(255,41,207,.12),rgba(100,0,122,.30),rgba(255,41,207,.12))!important;border:1px solid #ff28cf!important;border-radius:11px!important;padding:3px!important;margin:-3px!important;box-shadow:0 0 8px #ff28cf,0 0 17px rgba(255,41,207,.58),inset 0 0 14px rgba(255,41,207,.10)!important}
-.product-wrap.hasqty .product{background:linear-gradient(90deg,#23082b,#4a0a56 55%,#2b0834)!important;border-color:#ff4dde!important;box-shadow:inset 0 0 18px rgba(255,41,207,.14)!important}
-.product-wrap.hasqty .product-qty{background:var(--lime)!important;color:#101800!important;border-color:#b6ff4f!important;box-shadow:0 0 10px rgba(152,255,22,.75)!important}
-.product-wrap.qtymany{box-shadow:0 0 9px #ff28cf,0 0 22px rgba(255,41,207,.76),inset 0 0 17px rgba(255,41,207,.14)!important}
-.product.bought{background:#08271c!important;border-color:#16cc79!important;color:#baf7d8!important;opacity:.9!important}
-.mini-btn{background:#02080d!important;color:#fff!important;border:1px solid #005984!important;box-shadow:0 0 8px rgba(0,183,255,.08)!important}
-.mini-btn[data-a="minus"]{background:#170408!important;color:#ff5b67!important;border-color:#a70f20!important}.mini-btn[data-a="minus"]:hover{background:#310910!important}
-.mini-btn[data-a="plus"]{background:#041b12!important;color:#4cff9d!important;border-color:#087b4b!important}.mini-btn[data-a="plus"]:hover{background:#07301e!important}
-.buy-btn{background:#03090e!important;color:#d9f5ff!important;border-color:#00628d!important}.buy-btn.active{background:#0b3a26!important;color:#8effbd!important;border-color:#16cc79!important}
-.merc-btn{background:#14051b!important;color:#eaa8ff!important;border:1px solid #8030aa!important;box-shadow:0 0 8px rgba(189,56,255,.18)!important}.merc-btn:hover{background:#2a0a38!important}
-input,select,textarea,.searchbox{background:#01070b!important;color:#f3f8ff!important;border:1px solid #00557e!important;outline:none!important}
-input:focus,select:focus,textarea:focus,.searchbox:focus{border-color:#00b7ff!important;box-shadow:0 0 10px rgba(0,183,255,.32)!important}
-.modal-backdrop{background:rgba(0,0,0,.82)!important}.modal{background:#01070b!important;color:#f4f8ff!important;border:1px solid #00628f!important;box-shadow:0 0 28px rgba(0,183,255,.20)!important}
-.market-choice label,.manage-row,.zone-manage-row,.category-manage-row,.market-manage-row,.batch-list,.batch-item,.search-result-row,.cloud-card,.search-empty{background:#02080d!important;color:#f2f7ff!important;border-color:#164153!important}
-::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-track{background:#02070b}::-webkit-scrollbar-thumb{background:#174d67;border-radius:10px;border:2px solid #02070b}::-webkit-scrollbar-thumb:hover{background:#0075a8}
+.product-wrap.qtymany{
+  box-shadow:0 0 9px #ff28cf,0 0 22px rgba(255,41,207,.76),inset 0 0 12px rgba(255,41,207,.10)!important;
+}
 @media(max-width:700px){
-  body{background:#000!important}.top-fixed{background:#00080e!important}.toolbar{background:#01070c!important}
-  .section h3{font-size:14px!important}.product-wrap.hasqty{padding:2px!important;margin:-2px!important}
+  .product-wrap.hasqty{padding:2px!important;margin:-2px!important}
 }
 
 </style>
@@ -300,7 +264,7 @@ input:focus,select:focus,textarea:focus,.searchbox:focus{border-color:#00b7ff!im
 <body>
 <div class="container">
   <div class="top-fixed">
-    <h1>🛒 Compras por supermercado <span style="color:#d92d20;font-weight:900;font-size:.62em;vertical-align:middle;white-space:nowrap;">v17.1</span></h1>
+    <h1>🛒 Compras por supermercado <span style="color:#d92d20;font-weight:900;font-size:.62em;vertical-align:middle;white-space:nowrap;">v17.2</span></h1>
     <div class="subtitle">Catálogo compartido · cambios guardados automáticamente en GitHub.</div>
     <div class="toolbar">
       <button class="primary" id="newBtn">＋ <span class="desk-label">Nuevo producto</span><span class="mob-label">NUEVO</span></button>
@@ -470,7 +434,7 @@ const DEVICE_ID=localStorage.getItem('shoppingDeviceId')||(()=>{const x='dev-'+M
 const LOG_KEY='shoppingSyncLogV16', MAX_LOG_LINES=1200;
 function logSafeData(data){if(data==null)return '';try{return ' '+JSON.stringify(data,(k,v)=>/token|authorization|key/i.test(k)?'[OCULTO]':v)}catch{return ' '+String(data)}}
 function appLog(level,msg,data){const line=`${new Date().toISOString()} [${DEVICE_ID}] [${level}] ${msg}${logSafeData(data)}`;console.log(line);let lines=[];try{lines=JSON.parse(localStorage.getItem(LOG_KEY)||'[]')}catch{};if(!Array.isArray(lines))lines=[];lines.push(line);if(lines.length>MAX_LOG_LINES)lines=lines.slice(-MAX_LOG_LINES);localStorage.setItem(LOG_KEY,JSON.stringify(lines));const t=$('logText');if(t)t.value=lines.join('\n')}
-function getLogText(){let lines=[];try{lines=JSON.parse(localStorage.getItem(LOG_KEY)||'[]')}catch{};return [`APP compras GitHub v17.1`,`device=${DEVICE_ID}`,`url=${location.href}`,`userAgent=${navigator.userAgent}`,`generated=${new Date().toISOString()}`,'',...(Array.isArray(lines)?lines:[])].join('\n')}
+function getLogText(){let lines=[];try{lines=JSON.parse(localStorage.getItem(LOG_KEY)||'[]')}catch{};return [`APP compras GitHub v17.2`,`device=${DEVICE_ID}`,`url=${location.href}`,`userAgent=${navigator.userAgent}`,`generated=${new Date().toISOString()}`,'',...(Array.isArray(lines)?lines:[])].join('\n')}
 function openLog(){const t=$('logText');if(t)t.value=getLogText();openModal('logModal');if(t)t.scrollTop=t.scrollHeight}
 function downloadLog(){const blob=new Blob([getLogText()],{type:'text/plain;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`compras_sync_log_${DEVICE_ID}_${new Date().toISOString().replace(/[:.]/g,'-')}.txt`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 function clearLog(){if(!confirm('¿Borrar el LOG de este dispositivo?'))return;localStorage.removeItem(LOG_KEY);appLog('INFO','LOG reiniciado manualmente');openLog()}
@@ -825,7 +789,7 @@ if(mobileMoreBtn&&mobileMoreMenu){
   mobileMoreMenu.addEventListener('click',e=>{const b=e.target.closest('[data-target]');if(!b)return;const target=document.getElementById(b.dataset.target);mobileMoreMenu.classList.remove('open');if(target)target.click()});
   document.addEventListener('click',e=>{if(!mobileMoreMenu.contains(e.target)&&e.target!==mobileMoreBtn)mobileMoreMenu.classList.remove('open')});
 }
-loadLocal();const seeded=seedFromEmbeddedExcel();const migratedToDia=migrateUnassignedToDia();updateHistory();render();appLog('START','Aplicación iniciada',{version:'v17.1',seeded,migratedToDia,updatedAt:db.updatedAt,hasToken:!!cloudConfig().key});setStatus('Cargando datos compartidos de GitHub…','sync');pullCloud(false,false).then(ok=>{if(!ok){if(cloudConfig().key)setStatus('GitHub conectado · pulsa subir para crear datos.json','sync');else setStatus('GitHub lectura · configura token para guardar')}startLiveSync()});
+loadLocal();const seeded=seedFromEmbeddedExcel();const migratedToDia=migrateUnassignedToDia();updateHistory();render();appLog('START','Aplicación iniciada',{version:'v17.2',seeded,migratedToDia,updatedAt:db.updatedAt,hasToken:!!cloudConfig().key});setStatus('Cargando datos compartidos de GitHub…','sync');pullCloud(false,false).then(ok=>{if(!ok){if(cloudConfig().key)setStatus('GitHub conectado · pulsa subir para crear datos.json','sync');else setStatus('GitHub lectura · configura token para guardar')}startLiveSync()});
 })();
 </script>
 </body></html>
