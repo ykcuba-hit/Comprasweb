@@ -510,7 +510,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 2
+        "dia": 0
       },
       "baseValues": {
         "otros": 0,
@@ -5034,7 +5034,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 1
+        "dia": 0
       },
       "baseValues": {
         "otros": 0,
@@ -5086,7 +5086,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 1
+        "dia": 0
       },
       "baseValues": {
         "otros": 0,
@@ -6854,7 +6854,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 4
+        "dia": 2
       },
       "baseValues": {
         "otros": 0,
@@ -7130,6 +7130,6 @@
       }
     }
   ],
-  "updatedAt": 1785154341539,
+  "updatedAt": 1785154343089,
   "lastDevice": "dev-gyf280-ms329iif"
 }
