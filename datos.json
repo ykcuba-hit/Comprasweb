@@ -56,7 +56,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -86,7 +86,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -116,7 +116,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -146,7 +146,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -176,7 +176,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -206,7 +206,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -236,7 +236,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -266,7 +266,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -296,7 +296,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -326,7 +326,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -356,7 +356,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -386,7 +386,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -416,7 +416,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -446,7 +446,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -476,7 +476,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -506,7 +506,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -536,7 +536,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -566,7 +566,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -596,7 +596,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -626,7 +626,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -656,7 +656,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -686,7 +686,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -716,7 +716,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -746,7 +746,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -776,7 +776,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -806,7 +806,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -836,7 +836,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "Costco"
       ]
@@ -866,7 +866,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -896,7 +896,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia",
         "Mcdona"
@@ -927,7 +927,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -957,7 +957,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -987,7 +987,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -1017,7 +1017,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1047,7 +1047,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1077,7 +1077,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1107,7 +1107,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1137,7 +1137,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1167,7 +1167,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1197,7 +1197,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1227,7 +1227,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1257,7 +1257,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1287,7 +1287,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1317,7 +1317,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -1377,7 +1377,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -1407,7 +1407,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1437,7 +1437,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1467,7 +1467,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1497,7 +1497,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1527,7 +1527,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1557,7 +1557,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1587,7 +1587,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1617,7 +1617,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1647,7 +1647,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1677,7 +1677,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1707,7 +1707,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1737,7 +1737,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1767,7 +1767,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1797,7 +1797,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1827,7 +1827,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1857,7 +1857,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1887,7 +1887,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1917,7 +1917,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1947,7 +1947,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -1977,7 +1977,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2007,7 +2007,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2037,7 +2037,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2067,7 +2067,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2097,7 +2097,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -2127,7 +2127,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2157,7 +2157,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -2187,7 +2187,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2217,7 +2217,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2247,7 +2247,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2277,7 +2277,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2307,7 +2307,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2337,7 +2337,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2367,7 +2367,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2397,7 +2397,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "Lidl"
       ]
@@ -2427,7 +2427,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2457,7 +2457,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2487,7 +2487,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2517,7 +2517,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2547,7 +2547,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2577,7 +2577,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2607,7 +2607,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2637,7 +2637,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2667,7 +2667,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2697,7 +2697,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2727,7 +2727,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -2757,7 +2757,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2787,7 +2787,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2817,7 +2817,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2847,7 +2847,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2877,7 +2877,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "CESTA VIANDAS",
       "marketAssignments": [
         "dia"
       ]
@@ -2907,7 +2907,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2937,7 +2937,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2967,7 +2967,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -2997,7 +2997,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3027,7 +3027,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3057,7 +3057,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3087,7 +3087,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3117,7 +3117,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3147,7 +3147,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3177,7 +3177,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3207,7 +3207,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3237,7 +3237,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -3267,7 +3267,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3297,7 +3297,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3327,7 +3327,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3357,7 +3357,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3387,7 +3387,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3417,7 +3417,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "Carfour"
       ]
@@ -3447,7 +3447,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3477,7 +3477,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3507,7 +3507,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3537,7 +3537,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3567,7 +3567,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3597,7 +3597,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3627,7 +3627,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3657,7 +3657,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3687,7 +3687,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3717,7 +3717,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3747,7 +3747,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3777,7 +3777,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3807,7 +3807,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3837,7 +3837,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3867,7 +3867,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3927,7 +3927,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3957,7 +3957,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -3987,7 +3987,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4017,7 +4017,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4047,7 +4047,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4077,7 +4077,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4107,7 +4107,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4137,7 +4137,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4167,7 +4167,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4197,7 +4197,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4227,7 +4227,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4257,7 +4257,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4287,7 +4287,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4317,7 +4317,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4347,7 +4347,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4377,7 +4377,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4407,7 +4407,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4437,7 +4437,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4467,7 +4467,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4497,7 +4497,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4527,7 +4527,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4557,7 +4557,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4587,7 +4587,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -4617,7 +4617,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4647,7 +4647,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4677,7 +4677,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -4707,7 +4707,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "Mcdona"
       ]
@@ -4737,7 +4737,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4767,7 +4767,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -4797,7 +4797,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -4827,7 +4827,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4857,7 +4857,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4887,7 +4887,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4917,7 +4917,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4947,7 +4947,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -4977,7 +4977,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5007,7 +5007,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5037,7 +5037,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5067,7 +5067,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5097,7 +5097,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5127,7 +5127,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5157,7 +5157,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5187,7 +5187,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5217,7 +5217,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5247,7 +5247,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5277,7 +5277,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5307,7 +5307,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5337,7 +5337,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "otros",
         "dia"
@@ -5368,7 +5368,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -5398,7 +5398,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5428,7 +5428,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5458,7 +5458,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5488,7 +5488,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5518,7 +5518,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5548,7 +5548,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5578,7 +5578,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5608,7 +5608,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5638,7 +5638,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5668,7 +5668,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -5698,7 +5698,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -5728,7 +5728,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "Carfour"
       ]
@@ -5758,7 +5758,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5788,7 +5788,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5818,7 +5818,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5848,7 +5848,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5878,7 +5878,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5908,7 +5908,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "dia"
       ]
@@ -5938,7 +5938,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -5968,7 +5968,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -5998,7 +5998,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "Mcdona"
       ]
@@ -6028,7 +6028,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6058,7 +6058,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6088,7 +6088,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6118,7 +6118,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6148,7 +6148,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6178,7 +6178,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6208,7 +6208,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6238,7 +6238,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6268,7 +6268,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6298,7 +6298,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6328,7 +6328,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "Mcdona"
       ]
@@ -6358,7 +6358,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "Mcdona"
       ]
@@ -6388,7 +6388,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6418,7 +6418,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6448,7 +6448,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6478,7 +6478,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -6508,7 +6508,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6538,7 +6538,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6568,7 +6568,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6598,7 +6598,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6628,7 +6628,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6658,7 +6658,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "Carfour"
       ]
@@ -6688,7 +6688,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6718,7 +6718,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6748,7 +6748,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6778,7 +6778,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6808,7 +6808,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6838,7 +6838,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6868,7 +6868,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6898,7 +6898,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6928,7 +6928,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6958,7 +6958,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -6988,7 +6988,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "DISPENSA",
+      "zone": "FRIGO",
       "marketAssignments": [
         "dia"
       ]
@@ -7018,7 +7018,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7048,7 +7048,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7078,7 +7078,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7108,7 +7108,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7138,7 +7138,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7168,7 +7168,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7198,7 +7198,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7228,7 +7228,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7258,7 +7258,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "Amzon"
       ]
@@ -7288,7 +7288,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "Mcdona",
         "dia"
@@ -7319,7 +7319,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7349,7 +7349,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7379,7 +7379,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "BAÑO",
       "marketAssignments": [
         "dia"
       ]
@@ -7409,7 +7409,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7439,7 +7439,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7469,7 +7469,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7499,7 +7499,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7529,7 +7529,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7559,7 +7559,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7589,7 +7589,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7619,7 +7619,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7649,7 +7649,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "Amzon"
       ]
@@ -7679,7 +7679,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7709,7 +7709,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7739,7 +7739,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7769,7 +7769,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7799,7 +7799,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7829,7 +7829,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "Mcdona"
       ]
@@ -7859,7 +7859,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7889,7 +7889,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7919,7 +7919,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7949,7 +7949,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -7979,7 +7979,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8009,7 +8009,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8039,7 +8039,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8069,7 +8069,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8099,7 +8099,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8129,7 +8129,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8159,7 +8159,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8189,7 +8189,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DEBAJO FREGADERO",
       "marketAssignments": [
         "dia"
       ]
@@ -8219,13 +8219,13 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "ESTANTE",
       "marketAssignments": [
         "Amzon"
       ]
     }
   ],
-  "updatedAt": 1785176350578,
+  "updatedAt": 1785178651107,
   "lastDevice": "dev-gyf280-ms329iif",
   "zones": [
     "SIN ZONA",
@@ -8235,6 +8235,7 @@
     "CESTA VIANDAS",
     "BAÑO",
     "JORGE",
-    "YOA"
+    "YOA",
+    "ESTANTE"
   ]
 }
