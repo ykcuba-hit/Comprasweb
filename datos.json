@@ -852,7 +852,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia",
         "Mcdona"
@@ -883,7 +883,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -3153,7 +3153,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -3181,7 +3181,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -3719,7 +3719,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -3749,7 +3749,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -4009,7 +4009,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -4291,7 +4291,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -4319,7 +4319,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -4403,7 +4403,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -5290,7 +5290,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -5318,7 +5318,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -5346,7 +5346,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -5516,7 +5516,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -5546,7 +5546,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": [
         "dia"
       ]
@@ -5576,7 +5576,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -5604,7 +5604,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -6624,7 +6624,7 @@
       "bought": {
         "dia": false
       },
-      "zone": "SIN ZONA",
+      "zone": "DISPENSA",
       "marketAssignments": []
     },
     {
@@ -7807,7 +7807,7 @@
       ]
     }
   ],
-  "updatedAt": 1785155926159,
+  "updatedAt": 1785158840252,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
