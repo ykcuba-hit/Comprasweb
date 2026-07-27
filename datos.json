@@ -5709,10 +5709,10 @@
       "category": "🍬 AZÚCAR, MERMELADAS Y REPOSTERÍA",
       "values": {
         "otros": 0,
-        "Costco": 0,
+        "Costco": 1,
         "Lidl": 0,
         "Mcdona": 0,
-        "Carfour": 1,
+        "Carfour": 0,
         "Amzon": 0,
         "dia": 0
       },
@@ -5726,11 +5726,13 @@
         "dia": 0
       },
       "bought": {
-        "dia": false
+        "dia": false,
+        "Carfour": false
       },
       "zone": "FRIGO",
       "marketAssignments": [
-        "Carfour"
+        "Carfour",
+        "Costco"
       ]
     },
     {
@@ -8225,7 +8227,7 @@
       ]
     }
   ],
-  "updatedAt": 1785195658094,
+  "updatedAt": 1785195672672,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
