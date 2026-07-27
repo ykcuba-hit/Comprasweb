@@ -522,7 +522,7 @@
         "dia": 0
       },
       "bought": {
-        "dia": true
+        "dia": false
       }
     },
     {
@@ -7130,6 +7130,6 @@
       }
     }
   ],
-  "updatedAt": 1785154308835,
+  "updatedAt": 1785154310096,
   "lastDevice": "dev-w31vqt-ms32a0xj"
 }
