@@ -57,7 +57,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "0e945773-0199-4df4-a7cc-56d3facbd979",
@@ -115,7 +117,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4afae517-4ac8-45c6-9c03-e92385cfcfc5",
@@ -143,7 +147,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2aa2b3fc-34e3-426a-8375-bf31c030d18c",
@@ -171,7 +177,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d6c41726-6ad2-4841-ade3-f28a05e0f407",
@@ -199,7 +207,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c4bffa52-92cc-4f0c-8194-645c704755d3",
@@ -227,7 +237,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "202d4a0a-3666-4e00-ab05-b4c87b7a0f65",
@@ -255,7 +267,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f0cea1e7-c03a-4598-ad72-1eb7c8a59af6",
@@ -298,7 +312,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 0
+        "dia": 2
       },
       "baseValues": {
         "otros": 0,
@@ -343,7 +357,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "47b0e64e-60b1-462c-99ea-0055c5e385e5",
@@ -371,7 +387,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "647fc534-04ec-4608-9c59-9caec0bda030",
@@ -399,7 +417,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "fffedd14-645d-4a08-8444-a8ec6cd86abc",
@@ -427,7 +447,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f4f10105-a212-4d24-ad5d-acb9e577ee1b",
@@ -485,7 +507,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "45c71f24-8f11-48ce-9cd3-0c06e479650a",
@@ -513,7 +537,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "71f2d368-9af8-4529-ab2e-8b9b3d173a2f",
@@ -541,7 +567,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "28ee540b-6488-4c12-8cfb-1e2b463a5141",
@@ -569,7 +597,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b201991f-d244-48e6-a857-658ab7e48c4a",
@@ -597,7 +627,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a07ce0ef-c6b7-4559-8a7a-7fb5b099ffff",
@@ -625,7 +657,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1e9cae0c-7821-44d4-b6f1-64a506dd1228",
@@ -653,7 +687,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "6b546162-be2d-4820-80ac-05132ca3419e",
@@ -711,7 +747,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "cdcfc5bc-1d51-4f63-9cab-6edfb17926ba",
@@ -739,7 +777,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a39eade9-6825-4131-9456-82dd8093b7b0",
@@ -767,7 +807,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c1756ce3-4f5e-426a-9119-b5c7d02c8ec2",
@@ -825,7 +867,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4cfb00b2-63da-4ab3-8c2c-c742e2dbe0c9",
@@ -884,7 +928,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "fb592781-2cb3-4b4c-b5d6-bb06d986a6b3",
@@ -912,7 +958,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1e8baefd-591d-4c9e-9ca0-bafd28d0d096",
@@ -970,7 +1018,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "ecc2114e-c016-43a5-be61-b590f9d8b67f",
@@ -998,7 +1048,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "dcf93047-9fcf-4a53-a437-2a09fe219292",
@@ -1026,7 +1078,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b232cf2f-79f7-4305-9ade-31d09aea77f0",
@@ -1084,7 +1138,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "175be26b-ff84-4837-aee8-382d0a0d2edc",
@@ -1112,7 +1168,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b993cdd6-a2ca-4494-ad97-3d7030b19ad9",
@@ -1140,7 +1198,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b7789e77-45ff-412f-8dbd-21dc2df624f2",
@@ -1168,7 +1228,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d1e7499e-9bb1-472f-a741-b4d66f97c669",
@@ -1196,7 +1258,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "95aafefa-f11b-47d8-b916-8f18e10c2768",
@@ -1224,7 +1288,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "edcb6bd5-cdc4-45f2-96ac-94ec2a357238",
@@ -1282,7 +1348,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "e09486e3-4b40-4854-8901-b56b0c222ae1",
@@ -1370,7 +1438,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "06219cbc-a635-4aeb-b722-ead5a2efa89e",
@@ -1398,7 +1468,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4fd29f3d-a677-4489-bd56-d3316922737f",
@@ -1426,7 +1498,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f709fd53-9e06-4e08-939e-a385cfd062c4",
@@ -1454,7 +1528,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "149541bb-098e-4683-bb94-85690fe3bb84",
@@ -1482,7 +1558,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a00af6b9-66b6-4d18-b093-86af947f6cff",
@@ -1510,7 +1588,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "25cf0e69-c299-4573-bc07-405e5794cb82",
@@ -1538,7 +1618,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8f0334c4-f0c9-4e60-a247-3eceda00aaee",
@@ -1566,7 +1648,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "3b89b382-e7a8-4419-b0c0-2d47b05e6dd9",
@@ -1594,7 +1678,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "13859557-7fc6-421c-960e-2031994a6618",
@@ -1622,7 +1708,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7e072ded-c959-4468-b579-e5c50c2247bc",
@@ -1650,7 +1738,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1706a300-66fa-4186-a644-0bcfc6fc82c2",
@@ -1678,7 +1768,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a6108886-1160-40e9-9082-6a3638b2eefc",
@@ -1706,7 +1798,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "fec9da17-1c51-4388-a2e2-476da59a9111",
@@ -1734,7 +1828,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b43b5ac5-f4e0-4e2b-a735-0d9cb5809287",
@@ -1762,7 +1858,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2d2a2af4-42f5-4b98-8135-b76bc5f8b1a0",
@@ -1790,7 +1888,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1b5484e8-7ffb-48fe-99a0-8eefbc610ebf",
@@ -1818,7 +1918,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a369c270-28f7-4e11-8a71-3152d69b00b3",
@@ -1876,7 +1978,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "80ba00af-5b82-4444-bdb2-89fdebc80eba",
@@ -1904,7 +2008,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "75c7a817-ebea-40ec-a9b6-7dd58c4fb0df",
@@ -1932,7 +2038,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8d2f307b-851c-471a-8205-885127e072f7",
@@ -1960,7 +2068,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "03e1eb54-a71c-41b1-b844-60ae8befeb02",
@@ -1988,7 +2098,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "271bdf16-40de-4a4a-9820-a05580644481",
@@ -2016,7 +2128,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5b9929af-65ca-4d61-b084-9edc93569977",
@@ -2134,7 +2248,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "be183a48-cdf0-4b19-871e-a3d3fc766d8c",
@@ -2162,7 +2278,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5cad905b-3dbb-4ad5-99b1-9e80bef23a77",
@@ -2220,7 +2338,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "01a2ed11-b4ff-4b12-8758-fe37e11a5e34",
@@ -2248,7 +2368,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "25acbef4-a09d-4811-986c-03535beaa788",
@@ -2306,7 +2428,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "42d6880f-3c6b-48de-beaa-a3a22585f7ed",
@@ -2364,7 +2488,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "33ee68dd-f53f-43af-860d-b6f7d33e162e",
@@ -2392,7 +2518,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "60e5a5c0-4272-4d35-8197-eaac2c88e232",
@@ -2420,7 +2548,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "0750340e-f095-43b4-9bad-97ca2d329af0",
@@ -2448,7 +2578,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5d6243e9-937a-4d60-b4c5-2fb81edc1b15",
@@ -2506,7 +2638,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "03886a14-b7cc-4cee-95b2-e38e041007ea",
@@ -2534,7 +2668,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "eb455b7e-0d0b-4db7-b449-a9753a7db2df",
@@ -2562,7 +2698,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "867337f4-41ce-4ddf-aefa-0cf1104bf319",
@@ -2590,7 +2728,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f761f9f0-5c8e-4be9-828d-8f957eabbf1b",
@@ -2618,7 +2758,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b541dd73-39d4-4fe3-9f83-21e1132fd1a7",
@@ -2646,7 +2788,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "19977208-a479-476b-927c-aae48b29d564",
@@ -2674,7 +2818,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c8063efa-2607-4207-9232-caa57ae04746",
@@ -2702,7 +2848,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "13ab697a-8ac7-4da1-8643-97a050931a5b",
@@ -2730,7 +2878,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c3e39789-6c7a-4f4a-86a6-70cff33a05e3",
@@ -2758,7 +2908,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "76f1dd6b-2ed4-488b-82e6-30c2f7e48449",
@@ -2816,7 +2968,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7c5b77a2-c355-4227-ab9b-0d0f8ec64faf",
@@ -2844,7 +2998,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "88b5c71e-8e35-4e6b-b543-bb6d40961a7c",
@@ -2872,7 +3028,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b2bc057e-4334-48a1-a521-0bc3ef8ffa33",
@@ -2900,7 +3058,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5067736f-aae4-45fc-82f4-e9fb235da80e",
@@ -2928,7 +3088,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "bcf1fd47-ab7f-4e5b-8865-352c50cc5947",
@@ -2956,7 +3118,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a2223005-2a7d-47b5-a670-de2f5d76c6a8",
@@ -2984,7 +3148,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "3131adfc-15e0-42c6-acfc-82b8a6a28092",
@@ -3012,7 +3178,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "46ccd202-573c-4699-9d75-8a9c0f636672",
@@ -3040,7 +3208,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f07decd6-2053-4723-af40-216f4408e73d",
@@ -3068,7 +3238,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "feb70af5-b8d4-4d84-8d1b-26869a34f0b8",
@@ -3096,7 +3268,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "586150e9-f7e6-41f6-b3d2-7438fb24219e",
@@ -3154,7 +3328,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "02d5d20b-8fe1-437b-8450-6a9d32af649b",
@@ -3182,7 +3358,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "43a90be4-99a8-4cd4-b483-2b1d7a091d33",
@@ -3210,7 +3388,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "31c6f3c1-fb96-4c79-a593-b592a7db4a8f",
@@ -3268,7 +3448,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5a16aba1-82b0-47b0-a882-f58526173aec",
@@ -3296,7 +3478,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "aca53aa6-8f0c-4548-817e-cfe305f6fea3",
@@ -3324,7 +3508,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "cbfa4fcb-0524-433a-aa4c-92327d5ad28a",
@@ -3382,7 +3568,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "20875922-a9ea-48da-be38-85a9e98a29f2",
@@ -3410,7 +3598,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "64642dac-bd54-4882-9c92-debeb2fda790",
@@ -3438,7 +3628,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "01cbe2e3-b72b-4d25-944e-cccf99892215",
@@ -3466,7 +3658,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "aec52288-19e4-4c68-ad64-b7de62fdab2a",
@@ -3494,7 +3688,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "ec7a3755-5972-4b57-b93f-713bfcf3a3cb",
@@ -3522,7 +3718,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "71714840-f79f-4abc-a661-91ead00ccbad",
@@ -3580,7 +3778,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "eba0b7c0-b289-41c8-8ef4-bb6435f18e0f",
@@ -3608,7 +3808,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "365dd353-5ed3-4f37-9cf6-28efda71c163",
@@ -3636,7 +3838,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8a413936-b440-49d9-8e90-62ec600bbe6c",
@@ -3664,7 +3868,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "49fccc9a-10be-40b6-b16b-f0fc565c7d2e",
@@ -3692,7 +3898,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8fb1b0da-27ef-44f8-a896-c0647a01c2d6",
@@ -3780,7 +3988,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "9266e407-ec52-47e8-abdb-d27be9b9c340",
@@ -3808,7 +4018,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "0fe72049-75a9-4b34-8878-9e3a5dafc62f",
@@ -3896,7 +4108,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7733418a-85fa-4110-814c-4daa4fb1b439",
@@ -3924,7 +4138,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "12d601fe-e1b8-4f29-a66b-d70b88fb6136",
@@ -3952,7 +4168,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "933c4a43-50b5-4516-9ba2-743a0285fcf3",
@@ -4010,7 +4228,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1992c52a-a218-4e8a-a8bc-a9339a1f9054",
@@ -4038,7 +4258,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8b40ef9c-b22c-4547-b2b2-427d5a42ed2c",
@@ -4066,7 +4288,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7a7a7129-8964-41cc-bc11-c64b467add67",
@@ -4094,7 +4318,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2a2e4d9b-627c-4896-838e-6c0d3949a0ab",
@@ -4122,7 +4348,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1bb57ada-7af7-4728-987d-8a70f6bf94fe",
@@ -4150,7 +4378,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "05bc5c43-8475-48f8-bd82-7f157ead1e3a",
@@ -4178,7 +4408,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f4d9d0d7-901f-4ba7-914d-196c450a6eb8",
@@ -4236,7 +4468,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "9018ebbb-3699-4522-8421-a242cdab7d6b",
@@ -4264,7 +4498,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "fb4e225b-8b35-4e1e-a8cc-c74104954fc6",
@@ -4292,7 +4528,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8ba6616c-8a1f-42de-bcba-ddf7c0730965",
@@ -4320,7 +4558,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a83b9ae0-314d-4899-93db-f89ce46f65d0",
@@ -4348,7 +4588,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c4ba3b1a-5883-4d0a-8762-9f4f2af728cc",
@@ -4376,7 +4618,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "236207aa-bdcf-403e-9b54-16e0e6520a76",
@@ -4404,7 +4648,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "e8d29879-66b6-4497-a6f1-424a7e9f4c91",
@@ -4432,7 +4678,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "3d5f208c-812f-4671-8e34-900b80604cc9",
@@ -4490,7 +4738,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "54a46e01-ca43-48f7-869a-646927b48c1b",
@@ -4518,7 +4768,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "774e3be9-f85a-41f7-8e85-fd1809df4623",
@@ -4546,7 +4798,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "90c01b93-e8e7-4baf-9819-b5c00dc8e546",
@@ -4574,7 +4828,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "42eb6cde-f9b8-4931-affc-f10c5580d79a",
@@ -4602,7 +4858,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "0ee8b6dd-aae4-419b-b10d-3c365e84dd5d",
@@ -4630,7 +4888,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b5051351-6f7b-464f-bef6-7a5f0f5ac79a",
@@ -4658,7 +4918,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "69c69f75-dd23-4c3f-9279-ede9fba1c955",
@@ -4716,7 +4978,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "6479cc98-2f8a-4f84-8a46-b8119d6c4b0e",
@@ -4774,7 +5038,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c1b88451-fd3f-4467-b2ac-d697a7b4bb7a",
@@ -4802,7 +5068,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "31138eb5-a18a-4e3b-87cb-c45a16d7b190",
@@ -4860,7 +5128,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7438dd50-f902-436a-9f1e-5a7d39123962",
@@ -4888,7 +5158,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "17a27e54-fa33-4d55-8c2e-2f17d0f2849e",
@@ -4946,7 +5218,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "04aacd14-cb3e-459e-92e7-b4d13622a435",
@@ -4974,7 +5248,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "0478712d-6d06-47e2-9370-685763718c6c",
@@ -5002,7 +5278,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "469e4308-5b97-4612-8a13-a2bf74e5487f",
@@ -5030,7 +5308,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "487d715f-8753-4475-96c1-2a7265f4a04c",
@@ -5149,7 +5429,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "9b324b5d-2d97-4390-83e6-fce9fce3675c",
@@ -5177,7 +5459,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "72225ccf-ff29-4ebb-a4b2-ad1de9a917e3",
@@ -5205,7 +5489,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "737d8516-02c9-4880-81f3-10a91661ec16",
@@ -5263,7 +5549,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "57443387-e6d6-40f9-a07e-5a018dad5e4e",
@@ -5291,7 +5579,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5b999f08-2198-4b0f-81e6-3ec9bf47f59d",
@@ -5319,7 +5609,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d78e2ec3-becf-4c1f-b640-95a07dba2896",
@@ -5347,7 +5639,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "84e0e115-edc6-45a4-9bc2-00de9cb08228",
@@ -5375,7 +5669,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "dff44d69-fe5b-4a35-97d5-f61319cc241b",
@@ -5403,7 +5699,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a1f6461c-1487-4d6c-b2c7-2caddf945b6e",
@@ -5461,7 +5759,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f101f5aa-241a-4daa-a882-8076959bd134",
@@ -5489,7 +5789,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "147643fc-a762-43a3-8a30-b8af3c1ba701",
@@ -5577,7 +5879,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "6707dd5f-0648-4e76-810d-572e0fa4dbf5",
@@ -5605,7 +5909,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "e8318c54-c331-426d-b00d-5bb063aa2f5f",
@@ -5633,7 +5939,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "efb4ac68-6f45-4a0f-b1d0-d3ebf1e1e99e",
@@ -5661,7 +5969,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a607e035-4017-479d-88fe-5b83ec35e4b4",
@@ -5719,7 +6029,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "b78c5790-567f-4e5a-a738-e354cdcfad78",
@@ -5747,7 +6059,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "445089bd-77fb-4b66-8a8c-117870c5503e",
@@ -5775,7 +6089,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "bd672184-7402-456e-9c5f-e7be41e80689",
@@ -5803,7 +6119,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "1b351bac-2e70-4d31-ab89-0a22ffb8f0b4",
@@ -5831,7 +6149,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4921671a-45c4-42ec-9574-1b89f64c5975",
@@ -5859,7 +6179,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "eac8dd68-9725-4339-9241-412cad878f42",
@@ -5887,7 +6209,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c13a1542-349f-4ede-b96d-f4c61be69128",
@@ -5915,7 +6239,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "efde6ad1-28f9-428b-aaad-b77f29e9ed9d",
@@ -5943,7 +6269,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "ab16e9ec-25d0-45c3-a7a4-5ccb9094452c",
@@ -5971,7 +6299,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a7e96324-b720-47cb-bda7-e2d0c0c7665e",
@@ -6059,7 +6389,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "621748db-082f-45ce-be44-c3e488bab672",
@@ -6087,7 +6419,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2db5258c-6be3-4850-94ff-7f7cd118fdfd",
@@ -6115,7 +6449,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "cc8747be-3443-4702-afc6-38445b863260",
@@ -6203,7 +6539,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f824e31c-11c3-4028-8d92-be47b9c22af0",
@@ -6231,7 +6569,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4933258b-236d-4130-9cfe-8888b8813e21",
@@ -6259,7 +6599,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "926f8b80-e0b3-4293-8809-4e6281b32309",
@@ -6287,7 +6629,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "a271bcf5-1108-4f2a-9270-d7dce3ed672f",
@@ -6345,7 +6689,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "6a572871-9de1-41bd-8b19-2f1df3645e73",
@@ -6373,7 +6719,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "786f3116-2a45-4ce6-bf03-a48996ad3280",
@@ -6401,7 +6749,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c50ddf48-4a64-4c77-b0f5-f74020df1563",
@@ -6429,7 +6779,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2b4a69cb-7cae-4c0f-a4b7-59480d8f763a",
@@ -6457,7 +6809,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "496e60b5-4ca0-436a-ba1d-9a62d9249d4a",
@@ -6485,7 +6839,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8f4f7b36-8ff9-42e7-9ba9-c163dffc5708",
@@ -6513,7 +6869,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d74ac378-6893-437a-88af-02aa58177c4c",
@@ -6541,7 +6899,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "80b11dd1-4bbb-4d69-9c22-59f2081af8e8",
@@ -6569,7 +6929,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c2683537-7c3e-4b9c-bb17-955394a2febf",
@@ -6597,7 +6959,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "257c67a3-d9a5-4749-9b9d-112df2406092",
@@ -6625,7 +6989,9 @@
         "dia": false
       },
       "zone": "DISPENSA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "da1b36e1-2403-46ad-8a4f-1553f95db83b",
@@ -6683,7 +7049,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "332800cf-eddf-4e49-8f9c-766a83197b03",
@@ -6741,7 +7109,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "9785bfe1-9c20-4e49-ab42-bdd70232f0c5",
@@ -6769,7 +7139,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "47cda4a2-1f34-4a1e-9242-24dc7cc6749a",
@@ -6827,7 +7199,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "daf4063c-e148-4675-9325-0107154c2b55",
@@ -6855,7 +7229,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "33b4ab37-dc4b-401c-b690-d7d676bf1d2c",
@@ -6974,7 +7350,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "891e273b-6923-4d38-a4f3-d62a67f6709e",
@@ -7002,7 +7380,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d9174571-6c0f-4bde-8808-9a11db4c47a4",
@@ -7030,7 +7410,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "03274912-329a-47ed-b632-bd17a2090d58",
@@ -7058,7 +7440,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7e82d42b-ba48-4b88-9e4c-b1f32804e4c8",
@@ -7086,7 +7470,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "2af688b5-a449-42fa-9cbc-e4973159f63d",
@@ -7174,7 +7560,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c4da4e67-4083-4db5-8aa8-5e4bf19e1a85",
@@ -7232,7 +7620,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "9a6f3f0f-3b98-4eeb-827d-f2017623ee8b",
@@ -7320,7 +7710,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "f1fd50bc-1aa4-4011-af0e-565535c7b839",
@@ -7348,7 +7740,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "5bea7cdd-b1d6-4d63-840b-9826950b04bc",
@@ -7376,7 +7770,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "525c4b84-0367-4949-9d27-d26468972bd9",
@@ -7494,7 +7890,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "73057787-92bb-4fd6-83f1-3e8a347f1c49",
@@ -7522,7 +7920,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "07bdb756-baab-4c84-9615-f7dde5f2d9d6",
@@ -7550,7 +7950,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "58746cc8-537e-41b2-99bb-8d531da217dd",
@@ -7578,7 +7980,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "d86a0278-d052-474c-a88c-f42b2d4b9f70",
@@ -7606,7 +8010,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "896795a3-4d08-440c-8f9a-57902519dcc7",
@@ -7634,7 +8040,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "3e5d310d-5819-407c-b2fc-da1dd42915a5",
@@ -7662,7 +8070,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "c6936b17-ed89-41b9-b938-a4fd485e7630",
@@ -7690,7 +8100,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "4fdb800c-72a1-4b22-a791-17dffeea94a6",
@@ -7718,7 +8130,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "7d9026dc-b519-40f1-af14-079722555187",
@@ -7746,7 +8160,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "46bf7f5f-6b36-4fb3-a85a-4a123da9d608",
@@ -7774,7 +8190,9 @@
         "dia": false
       },
       "zone": "SIN ZONA",
-      "marketAssignments": []
+      "marketAssignments": [
+        "dia"
+      ]
     },
     {
       "id": "8345dbd2-ff82-4206-9a89-b8954372de75",
@@ -7807,7 +8225,7 @@
       ]
     }
   ],
-  "updatedAt": 1785158964456,
+  "updatedAt": 1785166514627,
   "lastDevice": "dev-gyf280-ms329iif",
   "zones": [
     "SIN ZONA",
