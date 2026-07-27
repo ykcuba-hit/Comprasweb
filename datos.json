@@ -11,24 +11,24 @@
   ],
   "templates": {},
   "categories": [
-    "🥩 CARNICERÍA Y CHARCUTERÍA",
+    "☕ CAFÉ E INFUSIONES",
+    "❄️ CONGELADOS",
+    "🍚 ARROCES, PASTAS, HARINAS Y LEGUMBRES",
+    "🍞 PANADERÍA, BOLLERÍA Y DESAYUNO",
+    "🍨 HELADOS Y POSTRES",
+    "🍬 AZÚCAR, MERMELADAS Y REPOSTERÍA",
+    "🍺 VINOS Y CERVEZAS",
     "🐟 PESCADERÍA Y CONSERVAS DE PESCADO",
     "🥚 LÁCTEOS, HUEVOS Y REFRIGERADOS",
-    "🥬 FRUTAS, VERDURAS Y FRESCOS",
-    "❄️ CONGELADOS",
-    "🍞 PANADERÍA, BOLLERÍA Y DESAYUNO",
-    "🍚 ARROCES, PASTAS, HARINAS Y LEGUMBRES",
-    "🥫 CONSERVAS, SECOS Y DESPENSA",
-    "🧂 SALSAS, ACEITES, ESPECIAS Y CONDIMENTOS",
-    "🍬 AZÚCAR, MERMELADAS Y REPOSTERÍA",
-    "☕ CAFÉ E INFUSIONES",
     "🥤 BEBIDAS Y ZUMOS",
-    "🍺 VINOS Y CERVEZAS",
-    "🍨 HELADOS Y POSTRES",
+    "🥩 CARNICERÍA Y CHARCUTERÍA",
+    "🥫 CONSERVAS, SECOS Y DESPENSA",
+    "🥬 FRUTAS, VERDURAS Y FRESCOS",
+    "🧂 SALSAS, ACEITES, ESPECIAS Y CONDIMENTOS",
+    "🧃 OTROS / ESPECIALES",
     "🧴 HIGIENE PERSONAL",
-    "🧽 LIMPIEZA DEL HOGAR Y LAVANDERÍA",
     "🧻 PAPEL, BOLSAS Y DESECHABLES",
-    "🧃 OTROS / ESPECIALES"
+    "🧽 LIMPIEZA DEL HOGAR Y LAVANDERÍA"
   ],
   "products": [
     {
@@ -4543,7 +4543,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 0
+        "dia": 3
       },
       "baseValues": {
         "otros": 0,
@@ -5594,7 +5594,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 0
+        "dia": 2
       },
       "baseValues": {
         "otros": 0,
@@ -8225,7 +8225,7 @@
       ]
     }
   ],
-  "updatedAt": 1785166860754,
+  "updatedAt": 1785176336566,
   "lastDevice": "dev-gyf280-ms329iif",
   "zones": [
     "SIN ZONA",
