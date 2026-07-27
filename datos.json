@@ -522,7 +522,7 @@
         "dia": 0
       },
       "bought": {
-        "dia": false
+        "dia": true
       }
     },
     {
@@ -7130,6 +7130,6 @@
       }
     }
   ],
-  "updatedAt": 1785154267821,
-  "lastDevice": "dev-gyf280-ms329iif"
+  "updatedAt": 1785154308835,
+  "lastDevice": "dev-w31vqt-ms32a0xj"
 }
