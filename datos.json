@@ -835,10 +835,10 @@
         "otros": 0,
         "Costco": 0,
         "Lidl": 0,
-        "Mcdona": 0,
+        "Mcdona": 3,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 3
+        "dia": 0
       },
       "baseValues": {
         "otros": 0,
@@ -854,7 +854,8 @@
       },
       "zone": "SIN ZONA",
       "marketAssignments": [
-        "dia"
+        "dia",
+        "Mcdona"
       ]
     },
     {
@@ -7806,7 +7807,7 @@
       ]
     }
   ],
-  "updatedAt": 1785155917281,
+  "updatedAt": 1785155926159,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
