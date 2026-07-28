@@ -5712,7 +5712,7 @@
         "Costco": 1,
         "Lidl": 0,
         "Mcdona": 0,
-        "Carfour": 0,
+        "Carfour": 1,
         "Amzon": 0,
         "dia": 0
       },
@@ -8227,7 +8227,7 @@
       ]
     }
   ],
-  "updatedAt": 1785223734403,
+  "updatedAt": 1785223735273,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
