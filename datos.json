@@ -4931,9 +4931,9 @@
         "Costco": 0,
         "Lidl": 0,
         "Mcdona": 0,
-        "Carfour": 0,
+        "Carfour": 1,
         "Amzon": 0,
-        "dia": 1
+        "dia": 0
       },
       "baseValues": {
         "otros": 0,
@@ -4949,7 +4949,8 @@
       },
       "zone": "ESTANTE",
       "marketAssignments": [
-        "dia"
+        "dia",
+        "Carfour"
       ]
     },
     {
@@ -8227,7 +8228,7 @@
       ]
     }
   ],
-  "updatedAt": 1785223757607,
+  "updatedAt": 1785223761870,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
