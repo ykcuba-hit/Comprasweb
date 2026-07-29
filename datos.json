@@ -6618,7 +6618,7 @@
         "Mcdona": 0,
         "Carfour": 0,
         "Amzon": 0,
-        "dia": 0
+        "dia": 1
       },
       "baseValues": {
         "otros": 0,
@@ -8229,7 +8229,7 @@
       ]
     }
   ],
-  "updatedAt": 1785223770716,
+  "updatedAt": 1785328424697,
   "lastDevice": "dev-w31vqt-ms32a0xj",
   "zones": [
     "SIN ZONA",
